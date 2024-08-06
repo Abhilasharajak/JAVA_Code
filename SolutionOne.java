@@ -14,7 +14,7 @@ public class SolutionOne {
     }
 
     public static void main(String[] args) {
-        Solution ts = new Solution();
+        SolutionOne ts = new SolutionOne();
         int[] nums = {7, 11, 15,2};
         int target = 9;
         int[] result = ts.twoSum(nums, target);
