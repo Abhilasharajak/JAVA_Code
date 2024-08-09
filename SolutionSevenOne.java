@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 
 public class SolutionSevenOne {
@@ -22,7 +21,7 @@ public class SolutionSevenOne {
     }
 
 }
-=======
+
 import java.util.Scanner;
 
 public class SolutionSevenOne {
@@ -46,4 +45,3 @@ public class SolutionSevenOne {
     }
 
 }
->>>>>>> 47cff0662cc93605fa9a9bf6966888c1950d813b

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.*;
 public class SolutionSevenTwo {
     public static void main(String[] args) {
@@ -20,7 +20,6 @@ public class SolutionSevenTwo {
 
     }
 }
-=======
 import java.util.*;
 public class SolutionSevenTwo {
     public static void main(String[] args) {
@@ -42,4 +41,3 @@ public class SolutionSevenTwo {
 
     }
 }
->>>>>>> 47cff0662cc93605fa9a9bf6966888c1950d813b

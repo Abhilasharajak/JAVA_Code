@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class SolutionThree {
         public static String reverseWords(String s) {
             String[] words = s.trim().split("\\s+"); // Split by one or more spaces
@@ -19,7 +18,7 @@ public class SolutionThree {
             System.out.println("Reversed words: " + reverseWords(input));
         }
     }
-=======
+
 public class SolutionThree {
         public static String reverseWords(String s) {
             String[] words = s.trim().split("\\s+"); // Split by one or more spaces
@@ -40,5 +39,5 @@ public class SolutionThree {
             System.out.println("Reversed words: " + reverseWords(input));
         }
     }
->>>>>>> 47cff0662cc93605fa9a9bf6966888c1950d813b
+
     
