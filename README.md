@@ -10,3 +10,4 @@ Solution of Java Problems
  8. Decimal to Octal [07/08/24]
  9. First and last occurance of element [09/08/24]
 10. H Index [10/08/24]
+11. Remove duplicate [12/08/24]
