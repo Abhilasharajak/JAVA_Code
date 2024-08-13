@@ -11,3 +11,5 @@ Solution of Java Problems
  9. First and last occurance of element [09/08/24]
 10. H Index [10/08/24]
 11. Remove duplicate [12/08/24]
+12. Print unsorted sub array [13/08/24] 
+13. HCM [13/08/24]

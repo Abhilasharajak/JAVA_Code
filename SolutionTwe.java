@@ -52,10 +52,12 @@ public class SolutionTwe {
         return temp;
     }
     
-    public static void main(String[] args) {
-        int[] arr = {10, 12, 20, 30, 25, 40, 32, 31, 35, 50, 60};
-        int[] result = new SolutionTwo();
-        System.out.println("Indices of the unsorted subarray: " + result[0] + " to " + result[1]);
+    
+        public static void main(String[] args) {
+            int[] arr = {10, 12, 20, 30, 25, 40, 32, 31, 35, 50, 60};
+            int[] result = new SolutionTwe().printUnsorted(arr);
+            System.out.println("Indices of the unsorted subarray: " + result[0] + " to " + result[1]);
+        }
+        
     }
     
-}
